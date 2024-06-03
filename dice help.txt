@@ -1,7 +1,7 @@
 1. download and install python 3 
 https://www.python.org/downloads/ 
 
-2. download dice.py
+2. download and extract dice.py
 
 3. open command prompt/terminal 
 

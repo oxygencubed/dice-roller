@@ -11,3 +11,4 @@ https://www.python.org/downloads/
 
 6. if program breaks for any reason (bug, user misinput, etc), repeat step 5
 
+refer to dice help.png for visual guide on terminal stuff

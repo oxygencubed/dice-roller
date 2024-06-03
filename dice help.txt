@@ -1,0 +1,13 @@
+1. download and install python 3 
+https://www.python.org/downloads/ 
+
+2. download dice.py
+
+3. open command prompt/terminal 
+
+4. type "python3" and enter
+
+5. type "import dice" and enter
+
+6. if program breaks for any reason (bug, user misinput, etc), repeat step 5
+
